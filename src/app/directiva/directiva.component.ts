@@ -8,6 +8,8 @@ export class DirectivaComponent {
 
   listaCurso: string[] = ['Typescript', 'Javascript', 'Java', 'C#', 'PHP'];
 
+  habilitar: boolean = true;
+
   constructor(){
 
   }
